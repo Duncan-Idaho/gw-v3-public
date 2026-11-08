@@ -2,7 +2,8 @@
 contract: 1
 delivery: none
 merge: human
-close.default: human
+close:
+  default: human
 central: true
 ---
 
